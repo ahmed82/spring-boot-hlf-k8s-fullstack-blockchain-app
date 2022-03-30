@@ -1,7 +1,7 @@
 # Spring Boot Hyperledger Fabric Fullstack Blockchain Application running on Kubernetes
 Blockchain Based Asset Transfer Application
 
-Spring boot Hlf Starter is a library I wrote.It provides an easy way to get your Spring boot application using Hyperledger Fabric Gateway SDK v2.2 up and running quickly.
+Spring boot Hlf Starter is a library I wrote. It provides an easy way to get your Spring boot application using Hyperledger Fabric Gateway SDK v2.2 up and running quickly.
 
 Spring boot Hlf Starter Project Link: [https://github.com/susimsek/spring-boot-hlf-starter](https://github.com/susimsek/spring-boot-hlf-starter)
 
